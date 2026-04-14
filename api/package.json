@@ -1,0 +1,8 @@
+{
+  "name": "feedback-portal-api",
+  "version": "1.0.0",
+  "description": "Serverless Feedback Portal - Azure Functions Backend",
+  "dependencies": {
+    "@azure/cosmos": "^3.17.0"
+  }
+}
